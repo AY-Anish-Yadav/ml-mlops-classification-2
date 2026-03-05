@@ -1,0 +1,5 @@
+.env
+venv/
+models/
+notebooks/mlruns/
+notebooks/mlflow.db
